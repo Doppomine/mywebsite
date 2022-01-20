@@ -1,0 +1,22 @@
+.header{
+  background-color: rebeccapurple;  
+  color: goldenrod;
+  display: flex;
+  justify-content: space-between;
+  background-image: url("cbb.jpg");
+
+ }
+
+
+* {
+    border: solid;
+}
+
+.links{
+    display: flex;
+ justify-content: space-evenly;
+}
+
+.Game{
+    background-color: steelblue;
+}
